@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RideAware — Road Safety & Nearby BLE Device Explorer
 
 RideAware is a modern Android application built with **Kotlin** and **Jetpack Compose (Material 3)**. It observes nearby Bluetooth Low Energy (BLE) advertisements, provides educational road-safety context, and demystifies the physics, platform constraints, and privacy boundaries of wireless device detection in traffic environments.
